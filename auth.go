@@ -1,4 +1,4 @@
-package main
+package terraspoof
 
 import (
 	"encoding/json"
