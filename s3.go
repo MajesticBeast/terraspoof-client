@@ -6,6 +6,7 @@ import (
 )
 
 type Bucket struct {
+	ID               string
 	Name             string
 	Tags             string
 	BucketDomainName string
